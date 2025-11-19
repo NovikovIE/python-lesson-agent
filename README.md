@@ -10,7 +10,7 @@ ollama run hf.co/Qwen/Qwen3-8B-GGUF:Q4_K_M
 ```
 3) pip install -r requirements.txt
 
-4) unrar archive from https://drive.google.com/file/d/1jiD8FJKvsgtnsexU-sK275QT1ZqIj473/view?usp=sharing and put folder qdrant_storage to repo root
+4) unrar archive from https://drive.google.com/file/d/1dNCCDHOPbBxts2CrRmVwlfQ0PMhER17N/view?usp=sharing and put folder qdrant_storage to repo root
 
 ## Use
 
